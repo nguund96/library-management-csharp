@@ -1,0 +1,15 @@
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\bin\Debug\QuanLyThuVien_Form.exe.config
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\bin\Debug\QuanLyThuVien_Form.exe
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\bin\Debug\QuanLyThuVien_Form.pdb
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.FORM_DANGNHAP.resources
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.exe
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.pdb
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.FORM_MAIN.resources
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.FORM_NhanVien.resources
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.FORM_DocGia.resources
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.Form_ThemDocGia.resources
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.FORM_Sach.resources
+E:\Visual Studio 2013\Projects\C#\Form\QuanLyThuVien_Form\QuanLyThuVien_Form\obj\Debug\QuanLyThuVien_Form.Form_ThongTinDocGia.resources
